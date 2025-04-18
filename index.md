@@ -6,3 +6,7 @@
 let num=23;
 let name="Juan";
 ```
+
+- [X] Learn about markdown
+- [X] Update my portfolio
+- [ ] Introduce myself to the world
